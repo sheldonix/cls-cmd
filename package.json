@@ -1,13 +1,53 @@
 {
   "name": "cls-cmd",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Clear the terminal screen and the scrollback buffer.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheldonix/cls-cmd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sheldonix/cls-cmd/issues"
+  },
+  "homepage": "https://github.com/sheldonix/cls-cmd",
+  "keywords": [
+    "cls",
+    "clear",
+    "terminal",
+    "console",
+    "shell",
+    "cli",
+    "cmd",
+    "command",
+    "command-line",
+    "node-cli"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "require": "./src/index.js",
+      "import": "./src/index.mjs"
+    }
+  },
+  "bin": {
+    "cls": "bin/cls.js",
+    "cls-cmd": "bin/cls.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "sheldonix",
+  "license": "MIT",
   "packageManager": "pnpm@10.26.1"
 }
