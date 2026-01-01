@@ -1,4 +1,5 @@
 <div align="center">
+
 # cls-cmd
 
 **Cross-platform `cls` command to clear the terminal screen and the scrollback buffer**
