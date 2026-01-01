@@ -1,6 +1,6 @@
 {
   "name": "cls-cmd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Clear the terminal screen and the scrollback buffer.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
