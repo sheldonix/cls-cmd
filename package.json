@@ -1,6 +1,6 @@
 {
   "name": "cls-cmd",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Clear the terminal screen and the scrollback buffer.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -13,7 +13,6 @@
   },
   "homepage": "https://github.com/sheldonix/cls-cmd",
   "keywords": [
-    "cls",
     "clear",
     "terminal",
     "console",
