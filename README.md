@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>cls-cmd</h1>
-  <p>Cross-platform `cls` command to clear the terminal screen and the scrollback buffer.</p>
-  <p>
-    <a href="https://www.npmjs.com/package/cls-cmd"><img src="https://img.shields.io/npm/v/cls-cmd.svg" alt="npm version"></a>
-    <a href="https://www.npmjs.com/package/cls-cmd"><img src="https://img.shields.io/npm/dm/cls-cmd.svg" alt="npm downloads"></a>
-    <a href="https://www.npmjs.com/package/cls-cmd"><img src="https://img.shields.io/node/v/cls-cmd.svg" alt="node version"></a>
-    <a href="./LICENSE"><img src="https://img.shields.io/npm/l/cls-cmd.svg" alt="license"></a>
-  </p>
+# cls-cmd
+
+**Cross-platform `cls` command to clear the terminal screen and the scrollback buffer**
+
+[![npm version](https://img.shields.io/npm/v/cls-cmd.svg)](https://www.npmjs.com/package/cls-cmd)
+[![npm downloads](https://img.shields.io/npm/dm/cls-cmd.svg)](https://www.npmjs.com/package/cls-cmd)
+[![node version](https://img.shields.io/node/v/cls-cmd.svg)](https://www.npmjs.com/package/cls-cmd)
+[![license](https://img.shields.io/npm/l/cls-cmd.svg)](./LICENSE)
 </div>
 
 ## Features
